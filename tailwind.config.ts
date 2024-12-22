@@ -11,6 +11,9 @@ export default {
       colors: {
         highlight: "#D95638", // Define your highlight color here
       },
+      fontFamily: {
+        'manrope': ['Manrope', 'sans-serif'],
+      },
     },
   },
   plugins: [],
